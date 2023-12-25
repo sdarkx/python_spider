@@ -1,0 +1,292 @@
+F:\WorkSpace\PythonFile\venv\Scripts\python.exe F:/WorkSpace/pythonfile/vmgirls/main/__init__.py
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 1 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 2 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 3 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 4 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [6] picture
+[=====] Page 5 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [6] picture
+[=====] Page 6 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 7 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 8 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 9 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 10 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 11 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 12 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 13 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 14 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 15 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 16 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 17 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 18 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 19 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 20 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 21 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 22 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 23 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [9] picture
+[=====] Page 24 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 25 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 26 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 27 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[=]Successfully downloaded [4] picture
+[=====] Page 28 complete
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+[+]{img_name}Download complete!
+Traceback (most recent call last):
+  File "F:\WorkSpace\pythonfile\vmgirls\main\__init__.py", line 64, in <module>
+    main()
+  File "F:\WorkSpace\pythonfile\vmgirls\main\__init__.py", line 59, in main
+    any_html(HrefAndDir_names[i])
+  File "F:\WorkSpace\pythonfile\vmgirls\main\__init__.py", line 41, in any_html
+    resp = requests.get(urls[i][1], headers=head)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\sessions.py", line 745, in send
+    r.content
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\models.py", line 899, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\requests\models.py", line 816, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\urllib3\response.py", line 627, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\urllib3\response.py", line 566, in read
+    data = self._fp_read(amt) if not fp_closed else b""
+  File "F:\WorkSpace\PythonFile\venv\lib\site-packages\urllib3\response.py", line 532, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+  File "E:\Python\lib\http\client.py", line 465, in read
+    s = self.fp.read(amt)
+  File "E:\Python\lib\socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+  File "E:\Python\lib\ssl.py", line 1273, in recv_into
+    return self.read(nbytes, buffer)
+  File "E:\Python\lib\ssl.py", line 1129, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+
+Process finished with exit code -1073741510 (0xC000013A: interrupted by Ctrl+C)
